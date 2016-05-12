@@ -1,6 +1,6 @@
 [Sun May 08 16:24:35 2016] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
 [Sun May 08 16:24:35 2016] [notice] Server built: Sep 10 2011 11:34:11
-[Sun May 08 16:24:35 2016] [notice] Parent: Created child process 3576
+[Suregwergw2en May 08 16:24:35 2016] [notice] Parent: Created child process 3576
 [Sun May 08 16:24:35 2016] [notice] Child 3576: Child process is running
 [Sun May 08 16:24:36 2016] [notice] Child 3576: Acquired the start mutex.
 [Sun May 08 16:24:36 2016] [notice] Child 3576: Starting 64 worker threads.
